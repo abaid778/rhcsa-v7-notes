@@ -6,4 +6,4 @@ RHCSA v 7 notes
 In Progress
 
 ##Content
-* [Unit 1: RHCSA Review](./unit-1-rhcsa-accessing-the-command-line.md)
+* [Unit 1: RHCSA Accessing The Command Line ](./unit-1-rhcsa-accessing-the-command-line.md)
